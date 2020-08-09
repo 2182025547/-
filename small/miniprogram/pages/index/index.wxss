@@ -1,0 +1,20 @@
+.normal{
+  height:60px;
+  background-color: beige;
+  padding:15px 8px;
+}
+span{
+  margin:4px;
+}
+.title{
+  padding-top:5px;
+  font-size:18px;
+  
+}
+.content{
+  font-size:12px;
+}
+.headImg{
+  height:60px;
+  width:60px;
+}

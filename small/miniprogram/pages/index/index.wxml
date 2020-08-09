@@ -1,0 +1,15 @@
+<!--index.wxml-->
+
+
+<view >
+
+<view class="normal">
+
+<image class="headImg" src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1437473548,3272300633&fm=26&gp=0.jpg"></image>
+
+<span class="title">宿舍106</span>
+
+<span class="content">/流汗</span>
+</view>
+    
+</view>
